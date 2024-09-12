@@ -27,7 +27,7 @@ This project is a simple social media app developed with Next.js typescript that
 1. Clone the repository:
 ```bash
 git clone https://github.com/Koongpao/young-wow-test-frontend.git
-cd .\young-wow-frontend\
+cd .\young-wow-test-frontend\
 ```
 
 2. Install dependencies:
