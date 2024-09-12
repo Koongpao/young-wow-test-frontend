@@ -4,7 +4,6 @@ This project is a simple social media app developed with Next.js typescript that
 
 ## Features
 
-First, run the development server:
 - ** User Registration and Authentication **
     - Register with unique username, email, password
     - Log in to receive token for authenticated requests
@@ -12,8 +11,11 @@ First, run the development server:
 
 - ** Viewing existing posts **
 - ** Posting a new post **
+    - Require being logged in
 - ** Deleting your own post **
+    - Require being logged in
 - ** Editing your own post **
+    - Require being logged in
 
 ## Setup and Installation
 
