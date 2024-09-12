@@ -20,7 +20,7 @@ export function Card({ cardInfo }: cardProps) {
 
   const handleDelete = async () => {
     const response = await deletePost(cardInfo.id.toString());
-    if (response?.status === 204) {
+    if (response?.status === 200) {
       window.location.reload();
     }
   };
